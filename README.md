@@ -39,7 +39,7 @@ Feel free to reach out for collaborations, tech discussions, or just to say hi!
 
 [![LinkedIn](https://www.linkedin.com/in/abdul-malik-495790282/)  
 [![GitHub](https://github.com/abdulmalik812)
-[![Twitter]()https://x.com/MalikAbdul812?t=ttXFQgh0sQjtK-5LQ7WwCA&s=09
+[![Twitter](https://x.com/MalikAbdul812?t=ttXFQgh0sQjtK-5LQ7WwCA&s=09)
 ---
 
 _"Turning data into meaningful solutions, one project at a time."_

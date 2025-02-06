@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdul Malik</h1>
-### Hi there, I'm Abdul Malik 👋
 
 I'm a **B.Tech student** in Computer Science and Engineering at **Integral University, Lucknow, India**. With a strong passion for **machine learning**, **data science**, and **deep learning**, I love transforming complex problems into innovative, data-driven solutions.
 
@@ -38,9 +37,9 @@ I'm a **B.Tech student** in Computer Science and Engineering at **Integral Unive
 #### 😊 **Let's Connect!**
 Feel free to reach out for collaborations, tech discussions, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
-
+[![LinkedIn](https://www.linkedin.com/in/abdul-malik-495790282/)  
+[![GitHub](https://github.com/abdulmalik812)
+[![Twitter]()https://x.com/MalikAbdul812?t=ttXFQgh0sQjtK-5LQ7WwCA&s=09
 ---
 
 _"Turning data into meaningful solutions, one project at a time."_

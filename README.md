@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Malik</h1>
+
+
 I'm a **B.Tech student** in Computer Science and Engineering at **Integral University, Lucknow, India**. With a strong passion for **machine learning**, **data science**, and **deep learning**, I love transforming complex problems into innovative, data-driven solutions.
 
 ---
